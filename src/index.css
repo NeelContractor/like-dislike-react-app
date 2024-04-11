@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-size: 120%;
+  background-color: lightgreen;
+}
+
+span {
+  margin: 5px;
+  font-size: 200%;
+}
+
+span:hover {
+  font-size: 250%;
+  cursor: pointer;
+}
